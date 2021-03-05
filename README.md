@@ -1,4 +1,3 @@
 # Regulator
 
-For more info see thek.io.
-
+![This repo accompanies this blog piece](http://georgetheka.com/resilient-architecture)
